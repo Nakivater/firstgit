@@ -10,7 +10,7 @@
 <body>
 <p>Контакт</p>
 <?php
-
+echo "tel";
 ?>
 </body>
 </html>

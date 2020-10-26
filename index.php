@@ -10,7 +10,9 @@
 <body>
 <p>Работа с git</p>
 <?php
-echo "Hello";
+echo "Working progress";
+
 ?>
+<a href="contact.php">Contact</a>
 </body>
 </html>
