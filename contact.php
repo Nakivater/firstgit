@@ -12,6 +12,5 @@
 <?php
 echo "tel";
 ?>
-<a href="index.php">Main</a>
 </body>
 </html>

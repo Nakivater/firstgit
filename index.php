@@ -8,9 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<p>Работа с git</p>
-<?php
-echo "Working finish<br>";
+<p>Работа</p>
 ?>
 <a href="contact.php">Contact</a>
 </body>
