@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2ea0d09d-dbc7-4213-bbf6-0c5f3d9e9816" name="useGIT" url="http://useGIT">
+        <fileTransfer port="0" mountedRoot="E:\OpenServer\domains\useGIT" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
