@@ -10,6 +10,6 @@
 <body>
 <p>Работа</p>
 ?>
-<a href="contact.php">Contact++</a>
+<h1>Hello i`m 2 user</h1>
 </body>
 </html>

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2ea0d09d-dbc7-4213-bbf6-0c5f3d9e9816" name="useGIT" url="http://useGIT">
-        <fileTransfer port="0" mountedRoot="E:\OpenServer\domains\useGIT" accessType="MOUNT" />
+      <webServer id="c2e82ddb-5118-4752-8517-991d6487f9de" name="useGIT2" url="http://useGIT2">
+        <fileTransfer port="0" mountedRoot="D:\useGIT2" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
